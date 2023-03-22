@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "617835315965",
+    "firebase_url": "https://student-managment-75988-default-rtdb.firebaseio.com",
+    "project_id": "student-managment-75988",
+    "storage_bucket": "student-managment-75988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617835315965:android:58b9224ad2f01a0d54f494",
+        "android_client_info": {
+          "package_name": "com.abdulkader.job_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617835315965-nfn54er8r7r7agqulqle5lj3ma6jg7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnhuOsNbWLcBvgwveKQOf9YfajLhI2d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617835315965-nfn54er8r7r7agqulqle5lj3ma6jg7t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617835315965:android:f5d1480a4065d06754f494",
+        "android_client_info": {
+          "package_name": "com.knowtechfast.firebase_counter_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617835315965-nfn54er8r7r7agqulqle5lj3ma6jg7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnhuOsNbWLcBvgwveKQOf9YfajLhI2d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617835315965-nfn54er8r7r7agqulqle5lj3ma6jg7t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
